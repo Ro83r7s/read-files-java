@@ -26,7 +26,7 @@ public class Main {
             //during each cycle of the while loop, WITHIN A SET OF PARENTHESES I AM GOING TO
             // SET OUR STRING OF
             // LINE EQUAL TO USE OUR BUFFERED READER OBJECT CALL THE READ LINE METHOD
-        while((line = reader.readLine()) != null){//read read each line assign it to this variable of line while there is no lines
+        while((line = reader.readLine()) != null){//read each line assign it to this variable of line while there is no lines
             System.out.println(line);
         }
         }
